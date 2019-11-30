@@ -1,11 +1,5 @@
-# ogp1819-gui
+This repository JumpingAlien contains the code for the OGP assignment of academic year 2018-2019.
+The game is based around a character called Mazubke, who has to find his way around a world full of enemies and other 
+obstacles, sort of like Super Mario. 
 
-This repository (ogp1819-gui) contains the GUI code for the OGP assignment of academic year 2018-2019.
-
-Your team repository will be initialized with a clone of this repository (and this README). You can pull further updates that appear in the GUI repository into your team repository by adding this GUI repository as a remote (see the document on Toledo on how to do that).
-
-You can freely edit this README (for example, we suggest to include at least the names of your team members).
-
-
-test
-test_2
+The code is written by Danaë Van de Velde & Thomas Vrolix, part of the gui was provided by Ku leuven. 
